@@ -1,4 +1,4 @@
-/* @media only screen and (max-width: 767px){ */
+    /* mob */
     body{
         margin: auto;
         width: 480px;
@@ -48,7 +48,7 @@
         padding-top: 6%;
         border-left: 1px solid gray;
     }
-/* } */
+/* diskTop */
 @media (min-width:768px){
     body{
         width:960px;
